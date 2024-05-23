@@ -2,17 +2,16 @@
   <img src="https://99px.ru/sstorage/86/2016/12/image_86151216145250397324.gif" width="120"/>
 </div>
 
-<!--
+ <!-- 
 <div id="badges" align="center">
-  <!-- <a href="your-linkedin-URL">
+ <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a> 
   <a href="https://leetcode.com/u/jettajac/">
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode Badge"/>
   </a>
-</div >
-</div>-->
-
+</div>
+-->
 
 <div id="badges" align="center" strong ><h2>
 Hi there 👋, my name is Anastasia!
