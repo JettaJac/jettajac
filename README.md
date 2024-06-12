@@ -33,7 +33,7 @@ Hi there 👋, my name is Anastasia!
 ### :woman_technologist: About Me :
 - :telescope: Now I'm finishing my programming studies at School 21
 
-- :seedling: Main Golang stack and postgress Exploring Technical Content Writing
+- :seedling: Main Golang stack and PostgreSQL Exploring Technical Content Writing
 
 - :zap: In my free time, I solve problems using leetcode, Yandex workshops, read technical articles and take courses in cross-cutting areas
 
