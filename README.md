@@ -2,16 +2,9 @@
   <img src="https://99px.ru/sstorage/86/2016/12/image_86151216145250397324.gif" width="120"/>
 </div>
 
- <!-- 
-<div id="badges" align="center">
- <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="https://leetcode.com/u/jettajac/">
-    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode Badge"/>
-  </a>
-</div>
--->
+
+
+
 
 <div id="badges" align="center" strong ><h2>
 Hi there 👋, my name is Anastasia!
@@ -23,6 +16,16 @@ Hi there 👋, my name is Anastasia!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&lines=I+am+a+GO+developer)](https://git.io/typing-svg)
 </div> -->
+
+<div id="badges" align="center">
+   <!-- 
+ <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> -->
+  <a href="https://leetcode.com/u/jettajac/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+</div>
 
 <div id="profile view" align="center">
 <img src="https://komarev.com/ghpvc/?username=jettajac&style=flat-square&color=orange" alt=""/>
