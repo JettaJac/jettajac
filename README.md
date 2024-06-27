@@ -25,11 +25,15 @@ Hi there 👋, my name is Anastasia!
   <a href="https://leetcode.com/u/jettajac/">
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=jettajac&style=for-the-badge&color=orange" alt=""/>
+</div >
 </div>
 
+
+ <!-- 
 <div id="profile view" align="center">
-<img src="https://komarev.com/ghpvc/?username=jettajac&style=flat-square&color=orange" alt=""/>
-</div >
+<img src="https://komarev.com/ghpvc/?username=jettajac&style=for-the-badge&color=orange" alt=""/>
+</div >-->
 
 ---
 
